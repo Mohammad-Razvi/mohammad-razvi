@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header.svg" alt="Mohammad Razavi - Front-end, UI/UX and ASP.NET MVC Developer" />
+  <img src="github-header.png" alt="Mohammad Razavi - Front-end, UI/UX and ASP.NET MVC Developer" />
 </p>
 
 <h1 align="center">Hi, I'm Mohammad Razavi 👋</h1>
