@@ -1,0 +1,59 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammad Razavi GitHub Profile Header</title>
+  <desc id="desc">A dark modern developer profile header for Mohammad Razavi.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="110" y1="74" x2="1060" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59C00"/>
+      <stop offset="1" stop-color="#00D1B2"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="32"/>
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" rx="34" fill="url(#bg)"/>
+  <circle cx="1040" cy="80" r="130" fill="#F59C00" opacity="0.18" filter="url(#blur)"/>
+  <circle cx="210" cy="365" r="150" fill="#00D1B2" opacity="0.12" filter="url(#blur)"/>
+  <path d="M80 335 C245 230 315 406 490 296 C646 198 690 260 840 170 C1001 74 1085 146 1200 84" stroke="url(#accent)" stroke-width="3" opacity="0.55"/>
+
+  <g filter="url(#shadow)">
+    <rect x="735" y="80" width="420" height="255" rx="24" fill="#0B1220" stroke="#273244" stroke-width="1.5"/>
+    <rect x="735" y="80" width="420" height="46" rx="24" fill="#101A2B"/>
+    <circle cx="767" cy="104" r="6" fill="#FF5F57"/>
+    <circle cx="790" cy="104" r="6" fill="#FFBD2E"/>
+    <circle cx="813" cy="104" r="6" fill="#28C840"/>
+    <text x="770" y="164" fill="#8B949E" font-family="Consolas, Monaco, monospace" font-size="18">const profile = &#123;</text>
+    <text x="805" y="200" fill="#F59C00" font-family="Consolas, Monaco, monospace" font-size="18">role:</text>
+    <text x="875" y="200" fill="#C9D1D9" font-family="Consolas, Monaco, monospace" font-size="18">'Developer + Designer',</text>
+    <text x="805" y="236" fill="#00D1B2" font-family="Consolas, Monaco, monospace" font-size="18">stack:</text>
+    <text x="875" y="236" fill="#C9D1D9" font-family="Consolas, Monaco, monospace" font-size="18">['UI/UX', 'ASP.NET'],</text>
+    <text x="805" y="272" fill="#8B5CF6" font-family="Consolas, Monaco, monospace" font-size="18">focus:</text>
+    <text x="875" y="272" fill="#C9D1D9" font-family="Consolas, Monaco, monospace" font-size="18">'real products'</text>
+    <text x="770" y="308" fill="#8B949E" font-family="Consolas, Monaco, monospace" font-size="18">&#125;;</text>
+  </g>
+
+  <g>
+    <rect x="100" y="94" width="96" height="6" rx="3" fill="url(#accent)"/>
+    <text x="100" y="155" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Mohammad Razavi</text>
+    <text x="102" y="205" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">Front-end Developer · UI/UX Designer · ASP.NET MVC Developer</text>
+    <text x="102" y="258" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22">Designing and building clean business-focused interfaces</text>
+    <g>
+      <rect x="102" y="292" width="118" height="38" rx="19" fill="#161B22" stroke="#30363D"/>
+      <text x="129" y="317" fill="#F59C00" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Figma</text>
+      <rect x="238" y="292" width="128" height="38" rx="19" fill="#161B22" stroke="#30363D"/>
+      <text x="264" y="317" fill="#00D1B2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Frontend</text>
+      <rect x="384" y="292" width="134" height="38" rx="19" fill="#161B22" stroke="#30363D"/>
+      <text x="409" y="317" fill="#C084FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">ASP.NET</text>
+      <rect x="536" y="292" width="122" height="38" rx="19" fill="#161B22" stroke="#30363D"/>
+      <text x="559" y="317" fill="#60A5FA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">SQL Server</text>
+    </g>
+  </g>
+</svg>
